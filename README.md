@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Purpose
 
-The purpose of this project is to learn the basic construction of an angular project.
+The purpose of this project is to learn the basic construction of an angular project as well as typescript.
